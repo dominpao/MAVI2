@@ -349,5 +349,5 @@ MigrationBackup/
 .ionide/
 
 # Un-ignore the box2d folder specifically
-!box2d/
-!box2d/**
+!/lib/box2d/
+!/lib/box2d/**
