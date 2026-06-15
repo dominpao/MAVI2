@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Un-ignore the box2d folder specifically
+!/lib/box2d/
+!/lib/box2d/**
